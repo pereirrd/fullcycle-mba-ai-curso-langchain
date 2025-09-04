@@ -5,5 +5,5 @@ template = PromptTemplate(
     template="Hello, {name}! How can I assist you today?"
 )
 
-text = template.format(name="Alice")
+text = template.format(name="Rodrigo")
 print(text)
